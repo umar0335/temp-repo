@@ -1,0 +1,13 @@
+Challenge 4
+    Run this cammend
+    php artisan test
+
+Challenge 3
+    Go to folder path
+    test\database\migrations\challenge3
+
+Challenge 2
+    Hit this url
+    Method post
+    http://127.0.0.1:8000/api/find-duplicates
+
